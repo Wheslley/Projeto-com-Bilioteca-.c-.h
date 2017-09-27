@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1506477282 source:c:\users\whesl\desktop\c\trabalholp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas.h"
+	"funcionario.h"
+	"departamento.h"
+	"trabalholp1.h"
+
+1473190996 c:\users\whesl\desktop\c\trabalholp1\estruturas.h
+
+1473189592 c:\users\whesl\desktop\c\trabalholp1\funcionario.h
+	"funcionario.c"
+
+1473190996 c:\users\whesl\desktop\c\trabalholp1\funcionario.c
+
+1473191009 c:\users\whesl\desktop\c\trabalholp1\departamento.h
+	"departamento.c"
+
+1473191050 c:\users\whesl\desktop\c\trabalholp1\departamento.c
+
+1506476494 c:\users\whesl\desktop\c\trabalholp1\trabalholp1.h
+	"trabalholp1.c"
+
+1506477355 c:\users\whesl\desktop\c\trabalholp1\trabalholp1.c
+

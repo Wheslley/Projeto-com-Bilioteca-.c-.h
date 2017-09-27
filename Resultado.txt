@@ -1,0 +1,641 @@
+------------------------------------------------------------------------------------------------------
+01. A soma dos salarios de todos os funcionarios:
+585024.00
+------------------------------------------------------------------------------------------------------
+02. A media salarial de todos os funcionarios:
+5850.24
+------------------------------------------------------------------------------------------------------
+03. Nome dos funcionário que trabalham no Dep Eng Software:
+Departamento:
+Dep Eng Software
+
+Id:
+6405012
+Numero Departamento:
+Russell V. Cannon
+Numero Departamento:
+5
+
+Id:
+6406092
+Numero Departamento:
+Xyla L. Moses
+Numero Departamento:
+5
+
+Id:
+6408972
+Numero Departamento:
+Solomon U. Jordan
+Numero Departamento:
+5
+
+Id:
+6412212
+Numero Departamento:
+Macey F. Harrington
+Numero Departamento:
+5
+
+Id:
+6415632
+Numero Departamento:
+Ignacia K. Barker
+Numero Departamento:
+5
+
+Id:
+6416172
+Numero Departamento:
+Halee U. Bird
+Numero Departamento:
+5
+
+Id:
+6416892
+Numero Departamento:
+Maxine H. Rivers
+Numero Departamento:
+5
+
+Id:
+6419052
+Numero Departamento:
+Stacy X. Bass
+Numero Departamento:
+5
+
+Id:
+6419412
+Numero Departamento:
+Hayden L. Zamora
+Numero Departamento:
+5
+
+Id:
+6420312
+Numero Departamento:
+Trevor O. Becker
+Numero Departamento:
+5
+
+------------------------------------------------------------------------------------------------------
+04. A media salarial dos funcionários que trabalham no Dep Eng Software:
+Departamento:
+Dep Eng Software
+Somatorio:
+6138.50
+------------------------------------------------------------------------------------------------------
+05. A media salarial dos funcionários que trabalham no Dep Computacao:
+Departamento:
+Dep Computacao
+Somatorio:
+5107.22
+------------------------------------------------------------------------------------------------------
+06. A media salarial dos funcionários que trabalham no Dep IA:
+Departamento:
+Dep IA
+Somatorio:
+4669.00
+------------------------------------------------------------------------------------------------------
+07.Exiba o nome e o salario de dos funcionario por departamento, ou seja, primeiro exiba o nome e o salario de todos os funcionarios do departamento 1, depois do departamento 2 e assim por diante:
+Departamento:
+1
+Descricao:
+Dep Computacao
+Nome:
+Palmer J. Ruiz
+Salario:
+6490.00
+
+Nome:
+Kaye O. Doyle
+Salario:
+2329.00
+
+Nome:
+Ahmed J. Pickett
+Salario:
+1982.00
+
+Nome:
+Dennis S. West
+Salario:
+6398.00
+
+Nome:
+Kelly Y. Christensen
+Salario:
+9583.00
+
+Nome:
+Belle D. Sanders
+Salario:
+4955.00
+
+Nome:
+Riley D. Booker
+Salario:
+1808.00
+
+Nome:
+Sonia D. Cash
+Salario:
+6727.00
+
+Nome:
+Sebastian F. Walton
+Salario:
+5693.00
+
+Departamento:
+2
+Descricao:
+Dep Medicina
+Nome:
+Xanthus F. Lindsay
+Salario:
+7742.00
+
+Nome:
+Vanna B. Savage
+Salario:
+9646.00
+
+Nome:
+Dahlia J. Haley
+Salario:
+9716.00
+
+Nome:
+Diana A. Frank
+Salario:
+3960.00
+
+Nome:
+Angelica S. Ware
+Salario:
+5181.00
+
+Nome:
+Jessica T. Green
+Salario:
+3338.00
+
+Nome:
+Gisela K. Schroeder
+Salario:
+5573.00
+
+Nome:
+Tarik N. Witt
+Salario:
+6055.00
+
+Nome:
+Hyatt D. Becker
+Salario:
+8319.00
+
+Nome:
+Boris N. Mcgee
+Salario:
+9497.00
+
+Nome:
+Unity M. Bowers
+Salario:
+7811.00
+
+Nome:
+Callum L. Tillman
+Salario:
+5417.00
+
+Nome:
+Emerson G. Vasquez
+Salario:
+4475.00
+
+Departamento:
+3
+Descricao:
+Dep Ed. Fisica
+Nome:
+Kaseem O. Ferguson
+Salario:
+7189.00
+
+Nome:
+Erica J. Vance
+Salario:
+9190.00
+
+Nome:
+Lois A. English
+Salario:
+9381.00
+
+Nome:
+Cassidy W. Walker
+Salario:
+5031.00
+
+Nome:
+Emi L. Casey
+Salario:
+4103.00
+
+Nome:
+Galena J. Donaldson
+Salario:
+4575.00
+
+Nome:
+Edward Z. Leblanc
+Salario:
+6580.00
+
+Nome:
+Dominic O. Walton
+Salario:
+4011.00
+
+Nome:
+Chloe E. Mullins
+Salario:
+5180.00
+
+Nome:
+Fuller V. Trevino
+Salario:
+9446.00
+
+Departamento:
+4
+Descricao:
+Dep Fisioterapia
+Nome:
+Wayne L. Middleton
+Salario:
+6650.00
+
+Nome:
+Cole V. Bullock
+Salario:
+1922.00
+
+Nome:
+Jolene V. Byrd
+Salario:
+3931.00
+
+Nome:
+Kitra O. Wilkins
+Salario:
+5177.00
+
+Nome:
+Elizabeth J. Kemp
+Salario:
+3420.00
+
+Nome:
+Dolan U. Fuentes
+Salario:
+6910.00
+
+Nome:
+Hadassah N. Randolph
+Salario:
+9155.00
+
+Nome:
+Joel Z. Wallace
+Salario:
+2599.00
+
+Nome:
+Kenneth C. Solomon
+Salario:
+6668.00
+
+Departamento:
+5
+Descricao:
+Dep Eng Software
+Nome:
+Russell V. Cannon
+Salario:
+2485.00
+
+Nome:
+Xyla L. Moses
+Salario:
+5732.00
+
+Nome:
+Solomon U. Jordan
+Salario:
+8470.00
+
+Nome:
+Macey F. Harrington
+Salario:
+5188.00
+
+Nome:
+Ignacia K. Barker
+Salario:
+2663.00
+
+Nome:
+Halee U. Bird
+Salario:
+5970.00
+
+Nome:
+Maxine H. Rivers
+Salario:
+9839.00
+
+Nome:
+Stacy X. Bass
+Salario:
+1985.00
+
+Nome:
+Hayden L. Zamora
+Salario:
+9104.00
+
+Nome:
+Trevor O. Becker
+Salario:
+9949.00
+
+Departamento:
+6
+Descricao:
+Dep IA
+Nome:
+Armando Z. Reeves
+Salario:
+5453.00
+
+Nome:
+Camille B. Murray
+Salario:
+4346.00
+
+Nome:
+Pascale R. Payne
+Salario:
+2938.00
+
+Nome:
+Quin O. Wilkinson
+Salario:
+5754.00
+
+Nome:
+Tatyana Y. Pena
+Salario:
+2805.00
+
+Nome:
+Nero O. Douglas
+Salario:
+6825.00
+
+Nome:
+Felix N. Raymond
+Salario:
+5879.00
+
+Nome:
+Brenda F. Boyer
+Salario:
+5628.00
+
+Nome:
+Christen J. Good
+Salario:
+2393.00
+
+Departamento:
+7
+Descricao:
+Dep Eng Quimica
+Nome:
+Delilah N. Mills
+Salario:
+6330.00
+
+Nome:
+Isadora X. Schroeder
+Salario:
+9153.00
+
+Nome:
+Kristen U. Stout
+Salario:
+3371.00
+
+Nome:
+Abel E. Rios
+Salario:
+7304.00
+
+Nome:
+Katell T. Marshall
+Salario:
+2183.00
+
+Nome:
+Margaret I. Warner
+Salario:
+2534.00
+
+Nome:
+Neville U. Hatfield
+Salario:
+4929.00
+
+Nome:
+Natalie R. Barnett
+Salario:
+9359.00
+
+Nome:
+Aurora H. Guthrie
+Salario:
+2445.00
+
+Nome:
+Paul H. Burns
+Salario:
+5671.00
+
+Departamento:
+8
+Descricao:
+Dep Letras
+Nome:
+Cleo K. Rodriguez
+Salario:
+9949.00
+
+Nome:
+Thomas Q. Lee
+Salario:
+5699.00
+
+Nome:
+Brock Y. Valencia
+Salario:
+3724.00
+
+Nome:
+Kyle U. Webb
+Salario:
+6287.00
+
+Nome:
+Indigo K. Lindsey
+Salario:
+9949.00
+
+Nome:
+Griffin Z. Fletcher
+Salario:
+5365.00
+
+Nome:
+Wendy D. Valencia
+Salario:
+7260.00
+
+Nome:
+Robert Y. Church
+Salario:
+6137.00
+
+Nome:
+Nadine K. Kennedy
+Salario:
+4073.00
+
+Nome:
+Elmo X. Castaneda
+Salario:
+8903.00
+
+Nome:
+Patricia X. West
+Salario:
+7873.00
+
+Departamento:
+9
+Descricao:
+Dep RH
+Nome:
+Dylan E. Beasley
+Salario:
+1931.00
+
+Nome:
+Hanna R. Cortez
+Salario:
+6832.00
+
+Nome:
+Declan W. Dudley
+Salario:
+7215.00
+
+Nome:
+Fredericka E. Wong
+Salario:
+9604.00
+
+Nome:
+Barbara S. Simpson
+Salario:
+2242.00
+
+Nome:
+Autumn Z. Charles
+Salario:
+7086.00
+
+Nome:
+Colt H. Mullen
+Salario:
+5635.00
+
+Nome:
+Hedda Z. Gonzales
+Salario:
+2585.00
+
+Nome:
+Jolie Q. Hoffman
+Salario:
+8543.00
+
+Nome:
+Dorian A. Molina
+Salario:
+4529.00
+
+Nome:
+Yasir M. Barrett
+Salario:
+9206.00
+
+Departamento:
+10
+Descricao:
+Dep Compras
+Nome:
+Arden U. Vasquez
+Salario:
+9949.00
+
+Nome:
+Nerea B. Lara
+Salario:
+2504.00
+
+Nome:
+Rowan V. Campos
+Salario:
+4058.00
+
+Nome:
+Sylvia N. Collins
+Salario:
+3657.00
+
+Nome:
+Ray F. Mcknight
+Salario:
+3637.00
+
+Nome:
+Ivana A. Hays
+Salario:
+8446.00
+
+Nome:
+Evelyn M. Franks
+Salario:
+7905.00
+
+Nome:
+Mona X. Olsen
+Salario:
+3743.00
+
